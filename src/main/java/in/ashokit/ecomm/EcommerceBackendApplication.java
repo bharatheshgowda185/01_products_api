@@ -14,8 +14,20 @@ public class EcommerceBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceBackendApplication.class, args);
+		
 		int j = 10;
 		
+		int k = 20;
+		
+	}
+	
+	
+	// JIRA-101
+	public void m1(){
+		
+		int i = 10;
+		int j  = 20;
+	
 	}
 
 }
