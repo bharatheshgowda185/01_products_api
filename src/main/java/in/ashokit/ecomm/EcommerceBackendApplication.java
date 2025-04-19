@@ -19,8 +19,6 @@ public class EcommerceBackendApplication {
 		
 		int k = 20;
 		
-		String name = "java";
-		
 	}
 	
 	
